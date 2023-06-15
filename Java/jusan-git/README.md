@@ -40,7 +40,7 @@ int main() {
     return 0;
 }
 ```
-> Попробуйте реализовать на Python, Go и JavaScript.
+> &#x1F4A1; Попробуйте реализовать на Python, Go и JavaScript.
 
 ## Контакты разработчика(h2)
 
