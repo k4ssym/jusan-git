@@ -1,1 +1,4 @@
-temp/
+echo "temp/" >> .gitignore
+echo "temp/*" >> .gitignore
+echo "!temp/.gitkeep >> .gitignore"
+
